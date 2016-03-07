@@ -18,6 +18,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Linux
 
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
+- [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 
 ### Maven
 
