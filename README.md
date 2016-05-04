@@ -9,6 +9,9 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Eclipse
 - [Fix a problem with maven workspace resolution](eclipse/fix-maven-workspace-dependency-problem.md)
 
+### Firefox
+- [Multiple home pages](firefox/multiple-home-pages.md)
+
 ### Git
 - [Merge two last commits](git/merge-two-last-commits.md)
 
