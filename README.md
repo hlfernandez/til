@@ -21,11 +21,12 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Linux
 
+- [Create an animated gif](linux/create-animated-gif.md)
+- [Create encrypted zip file](linux/create-encrypted-zip-file.md)
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
-- [Create encrypted zip file](linux/create-encrypted-zip-file.md)
 
 ### Maven
 
