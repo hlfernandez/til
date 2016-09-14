@@ -16,6 +16,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Merge two last commits](git/merge-two-last-commits.md)
 
 ### Java
+- [Enable tooltips on JTree](java/enable-tooltips-jtree.md)
 - [Fix jzy3d screenshots](java/fix-jzy3d-screenshots.md)
 - [Fix menu bar hidden behind canvas problem](java/fix-hidden-menu-bar.md)
 
