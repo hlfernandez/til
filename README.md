@@ -19,6 +19,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Enable tooltips on JTree](java/enable-tooltips-jtree.md)
 - [Fix jzy3d screenshots](java/fix-jzy3d-screenshots.md)
 - [Fix menu bar hidden behind canvas problem](java/fix-hidden-menu-bar.md)
+- [Maximize JDialog](java/maximize-jdialog.md)
 
 ### Linux
 
