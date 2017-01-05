@@ -33,3 +33,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Maven
 
 - [Execute main class](maven/exec-main-class.md)
+
+### VirtualBox
+
+- [Access to a shared folder in a Linux guest](virtualbox/access-shared-folder.md)
