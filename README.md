@@ -34,6 +34,9 @@ A collection of useful, concise tips on small things I learn day to day.
 
 - [Execute main class](maven/exec-main-class.md)
 
+### R
+- [Convert data frame columns](R/convert-data-frame-columns.md)
+
 ### VirtualBox
 
 - [Access to a shared folder in a Linux guest](virtualbox/access-shared-folder.md)
