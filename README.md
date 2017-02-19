@@ -23,6 +23,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Linux
 
+- [Append text to file using sed](linux/append-text-to-file-using-sed.md)
 - [Create an animated gif](linux/create-animated-gif.md)
 - [Create encrypted zip file](linux/create-encrypted-zip-file.md)
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
