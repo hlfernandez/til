@@ -30,6 +30,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
+- [Resize a gif image](linux/resize-gif-image.md)
 
 ### Maven
 
