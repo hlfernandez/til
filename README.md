@@ -36,6 +36,10 @@ A collection of useful, concise tips on small things I learn day to day.
 
 - [Execute main class](maven/exec-main-class.md)
 
+### Office suites
+
+- [Uniform image size in MS Word](office-suites/uniform-image-size-ms-word.md)
+
 ### R
 - [Convert data frame columns](R/convert-data-frame-columns.md)
 

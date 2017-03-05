@@ -1,0 +1,3 @@
+# Uniform image size in MS Word
+
+I wanted to set the same size for all images in MS Word. I found a lot of solutions that propose the use of macros but I wanted an easier way that I could quickly apply in any computer and, more importantly, that inexperienced users could also apply. So I finally found a very easy and quick way of doing it: changing the size for the first image and then hit `F4` when selecting your the image to get a uniform image size.
