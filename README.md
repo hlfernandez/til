@@ -14,6 +14,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Git
 - [Merge two last commits](git/merge-two-last-commits.md)
+- [Undo `git stash pop`](git/undo-git-stash-pop.md)
 
 ### Java
 - [Enable tooltips on JTree](java/enable-tooltips-jtree.md)
