@@ -44,6 +44,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### R
 - [Convert data frame columns](R/convert-data-frame-columns.md)
+- [Unable to install packages using install.packages](R/unable-install-packages.md)
 
 ### VirtualBox
 
