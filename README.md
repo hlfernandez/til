@@ -40,6 +40,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Office suites
 
+- [Inspect MS Office documents for sharing](office-suites/inspect-ms-office-documents-for-sharing.md)
 - [Uniform image size in MS Word](office-suites/uniform-image-size-ms-word.md)
 
 ### R
