@@ -31,6 +31,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
+- [Fix Ubuntu desktop Java launcher](fix-ubuntu-desktop-java-launcher.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)

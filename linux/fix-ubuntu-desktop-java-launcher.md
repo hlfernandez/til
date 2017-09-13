@@ -1,0 +1,5 @@
+### Fix Ubuntu desktop Java launcher
+
+I was creating a `.desktop` file to launch a Java application and I could't make it work: the Java application just didn't start. I had created a lot of launchers before and never had this problem. I also tried executing a bash script that starts the application. I checked that the script was actually being called by opening other program (e.g. gedit). After a search on ubuntuforums, I figured out the problem thanks to [this answer](https://ubuntuforums.org/showthread.php?t=1131991&p=7817074#post7817074): I had set the Java environment variable in `.bashrc` file and it seems that the launcher was not able to locate the `java` command. Indeed, I used the full path to the java binary and it worked.
+
+That answer suggests placing the environment setting in `.profile` file for the execution of sh file that fetch values from environment variables (e.g. JAVA_HOME): after setting `JAVA_HOME` in `.profile` it should work fine.
