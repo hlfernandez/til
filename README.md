@@ -33,6 +33,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
 - [Fix Ubuntu desktop Java launcher](fix-ubuntu-desktop-java-launcher.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
+- [Merge PDF files](linux/merge-pdf-files.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
 - [Resize a gif image](linux/resize-gif-image.md)
