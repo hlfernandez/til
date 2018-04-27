@@ -34,6 +34,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Convert SVG to PDF with Inkscape](linux/convert-svg-to-pdf-with-inkscape.md)
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
+- [Extract substring with `sed`](linux/extract-substring-with-sed.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
 - [Fix Ubuntu desktop Java launcher](linux/fix-ubuntu-desktop-java-launcher.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
