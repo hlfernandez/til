@@ -17,6 +17,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Git
 - [Merge two last commits](git/merge-two-last-commits.md)
+- [Show new files created after commit](git/show-new-files-after-commit.md)
 - [Undo `git stash pop`](git/undo-git-stash-pop.md)
 
 ### Java
