@@ -33,6 +33,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Create encrypted zip file](linux/create-encrypted-zip-file.md)
 - [Convert flac to mp3](linux/convert-flac-to-mp3.md)
 - [Convert SVG to PDF with Inkscape](linux/convert-svg-to-pdf-with-inkscape.md)
+- [Count number of columns of a file](linux/count-file-columns.md)
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Extract substring with `sed`](linux/extract-substring-with-sed.md)
