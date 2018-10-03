@@ -56,6 +56,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Uniform image size in MS Word](office-suites/uniform-image-size-ms-word.md)
 
 ### R
+- [Compare several data frames by column](R/compare-several-data-frames-column.md)
 - [Convert data frame columns](R/convert-data-frame-columns.md)
 - [Unable to install packages using install.packages](R/unable-install-packages.md)
 
