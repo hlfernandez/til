@@ -43,6 +43,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Merge PDF files](linux/merge-pdf-files.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
+- [Reduce the size of a PDF file](linux/reduce-pdf-size.md)
 - [Resize a gif image](linux/resize-gif-image.md)
 
 ### Maven
