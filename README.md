@@ -45,6 +45,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
 - [Reduce the size of a PDF file](linux/reduce-pdf-size.md)
 - [Resize a gif image](linux/resize-gif-image.md)
+- [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
 
 ### Maven
 
