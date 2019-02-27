@@ -41,6 +41,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Fix Ubuntu desktop Java launcher](linux/fix-ubuntu-desktop-java-launcher.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
+- [Multiline comments in bash](linux/multiline-comments-bash.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
 - [Reduce the size of a PDF file](linux/reduce-pdf-size.md)
