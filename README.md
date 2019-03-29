@@ -53,6 +53,10 @@ A collection of useful, concise tips on small things I learn day to day.
 
 - [Execute main class](maven/exec-main-class.md)
 
+### MySQL
+
+- [Show and kill processes](mysql/show-and-kill-processes.md)
+
 ### Office suites
 
 - [Get distinct or unique column values in LibreOffice Calc](office-suites/libreoffice-calc-get-distinct-values-column.md)
