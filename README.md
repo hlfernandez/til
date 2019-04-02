@@ -55,6 +55,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### MySQL
 
+- [See table sizes](mysql/table-sizes.md)
 - [Show and kill processes](mysql/show-and-kill-processes.md)
 
 ### Office suites
