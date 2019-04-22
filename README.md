@@ -39,6 +39,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Extract substring with `sed`](linux/extract-substring-with-sed.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
+- [Fix Alt + F4 switching to TTY](linux/fix-alt-f4-tty-switching.md)
 - [Fix Ubuntu desktop Java launcher](linux/fix-ubuntu-desktop-java-launcher.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
