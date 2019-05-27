@@ -75,3 +75,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### VirtualBox
 
 - [Access to a shared folder in a Linux guest](virtualbox/access-shared-folder.md)
+
+### Web
+
+- [CSS styles only for Internet Explorer](web/internet-explorer-css-styles.md)
