@@ -49,6 +49,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
 - [Reduce the size of a PDF file](linux/reduce-pdf-size.md)
 - [Resize a gif image](linux/resize-gif-image.md)
+- [Restore Kate menu](linux/restore-kate-menu.md)
 - [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
 
 ### Maven
@@ -57,6 +58,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### MySQL
 
+- [Log all queries](mysql/log-all-queries.md)
 - [See table sizes](mysql/table-sizes.md)
 - [Show and kill processes](mysql/show-and-kill-processes.md)
 
