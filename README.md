@@ -61,6 +61,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### MySQL
 
+- [Ignore foreign key checks](mysql/ignore-foreign-key-checks.md)
 - [Log all queries](mysql/log-all-queries.md)
 - [See table sizes](mysql/table-sizes.md)
 - [Show and kill processes](mysql/show-and-kill-processes.md)
