@@ -47,6 +47,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
 - [Multiline comments in bash](linux/multiline-comments-bash.md)
+- [Paste the clipboard contents into the command line](linux/paste-clipboard-into-command-line.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Remove the password from a PDF](linux/remove-pdf-password.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
