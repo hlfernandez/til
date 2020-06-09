@@ -63,6 +63,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### MySQL
 
+- [Fix MySQL server has gone away error](fix-mysql-server-gone-away.md)
 - [Ignore foreign key checks](mysql/ignore-foreign-key-checks.md)
 - [Log all queries](mysql/log-all-queries.md)
 - [See table sizes](mysql/table-sizes.md)
