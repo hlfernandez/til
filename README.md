@@ -82,6 +82,10 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Scope assignment operator](R/scope-assignment-operator.md)
 - [Unable to install packages using install.packages](R/unable-install-packages.md)
 
+### Scripts
+
+- [Download issuu presentation](scripts/download-issuu-presentation.md)
+
 ### VirtualBox
 
 - [Access to a shared folder in a Linux guest](virtualbox/access-shared-folder.md)
