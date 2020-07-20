@@ -38,6 +38,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Convert SVG to PDF with Inkscape](linux/convert-svg-to-pdf-with-inkscape.md)
 - [Count number of columns of a file](linux/count-file-columns.md)
 - [Delete all but the most recent N files](linux/delete-all-but-most-recent-files.md)
+- [Dropbox asks for authentication](linux/dropbox-asks-authentication.md)
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Extract substring with `sed`](linux/extract-substring-with-sed.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
