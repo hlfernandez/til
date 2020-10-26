@@ -45,6 +45,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Find the number of CPUs and cores](linux/find-number-cpus-cores.md)
 - [Fix Alt + F4 switching to TTY](linux/fix-alt-f4-tty-switching.md)
 - [Fix Ubuntu desktop Java launcher](linux/fix-ubuntu-desktop-java-launcher.md)
+- [Insert a word in a specific position](linux/insert-word-position.md)
 - [ImageMagick convert png to pdf](linux/imagemagick-convert-png-to-pdf.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
