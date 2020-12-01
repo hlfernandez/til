@@ -58,6 +58,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Resize a gif image](linux/resize-gif-image.md)
 - [Restore Kate menu](linux/restore-kate-menu.md)
 - [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
+- [Kept back packages in Ubuntu](linux/ubuntu-kept-back-packages.md)
 
 ### Maven
 
