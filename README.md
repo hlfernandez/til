@@ -32,6 +32,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Linux
 
 - [Append text to file using sed](linux/append-text-to-file-using-sed.md)
+- [Append the content of one file into another one](linux/append-file-to-file)
 - [Create an animated gif](linux/create-animated-gif.md)
 - [Create encrypted zip file](linux/create-encrypted-zip-file.md)
 - [Convert flac to mp3](linux/convert-flac-to-mp3.md)
