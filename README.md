@@ -81,6 +81,10 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Inspect MS Office documents for sharing](office-suites/inspect-ms-office-documents-for-sharing.md)
 - [Uniform image size in MS Word](office-suites/uniform-image-size-ms-word.md)
 
+### Python
+
+- [Getting real-time output running external commands with `subprocess`](python/real-time-output-subprocess.md)
+
 ### R
 - [Compare several data frames by column](R/compare-several-data-frames-column.md)
 - [Convert data frame columns](R/convert-data-frame-columns.md)
