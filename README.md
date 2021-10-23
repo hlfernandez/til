@@ -8,6 +8,7 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ### Docker
 - [Fix DNS problems](docker/fix-dns-problems.md)
+- [Get container ID from within Docker container](docker/get-container-id-from-within-container.md)
 
 ### Eclipse
 - [Fix a problem with maven workspace resolution](eclipse/fix-maven-workspace-dependency-problem.md)
