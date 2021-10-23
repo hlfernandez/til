@@ -9,6 +9,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Docker
 - [Fix DNS problems](docker/fix-dns-problems.md)
 - [Get container ID from within Docker container](docker/get-container-id-from-within-container.md)
+- [List Docker images sorted by size](docker/list-docker-images-sorted-by-size.md)
 
 ### Eclipse
 - [Fix a problem with maven workspace resolution](eclipse/fix-maven-workspace-dependency-problem.md)
@@ -19,8 +20,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Git
 - [Ignore changes in file permissions (file mode)](git/ignore-file-permissions-changes.md)
 - [Merge two last commits](git/merge-two-last-commits.md)
-- [Revert changes to file in a specific commit
-](git/revert-changes-file-in-commit.md)
+- [Revert changes to file in a specific commit](git/revert-changes-file-in-commit.md)
 - [Show new files created after commit](git/show-new-files-after-commit.md)
 - [Undo `git stash pop`](git/undo-git-stash-pop.md)
 
