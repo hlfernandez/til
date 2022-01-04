@@ -81,6 +81,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Get distinct or unique column values in LibreOffice Calc](office-suites/libreoffice-calc-get-distinct-values-column.md)
 - [Inspect MS Office documents for sharing](office-suites/inspect-ms-office-documents-for-sharing.md)
 - [Uniform image size in MS Word](office-suites/uniform-image-size-ms-word.md)
+- [Unlock MS Word document](office-suites/unlock-ms-word-document.md)
 
 ### Python
 
