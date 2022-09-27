@@ -36,6 +36,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Append the content of one file into another one](linux/append-file-to-file)
 - [Create an animated gif](linux/create-animated-gif.md)
 - [Create encrypted zip file](linux/create-encrypted-zip-file.md)
+- [Convert Excel into CSV](linux/convert-excel-to-csv.md)
 - [Convert flac to mp3](linux/convert-flac-to-mp3.md)
 - [Convert SVG to PDF with Inkscape](linux/convert-svg-to-pdf-with-inkscape.md)
 - [Count number of columns of a file](linux/count-file-columns.md)
@@ -51,6 +52,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Install or update software with apt in unsupported releases](linux/apt-unsupported-releases.md)
 - [ImageMagick convert png to pdf](linux/imagemagick-convert-png-to-pdf.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
+- [Kept back packages in Ubuntu](linux/ubuntu-kept-back-packages.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
 - [Multiline comments in bash](linux/multiline-comments-bash.md)
 - [Paste the clipboard contents into the command line](linux/paste-clipboard-into-command-line.md)
@@ -62,7 +64,6 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Restore Kate menu](linux/restore-kate-menu.md)
 - [Scripting: Read from file or standard input](linux/scripting-read-file-or-stdin.md)
 - [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
-- [Kept back packages in Ubuntu](linux/ubuntu-kept-back-packages.md)
 
 ### Maven
 
