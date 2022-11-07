@@ -51,6 +51,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Insert a word in a specific position](linux/insert-word-position.md)
 - [Install or update software with apt in unsupported releases](linux/apt-unsupported-releases.md)
 - [ImageMagick convert png to pdf](linux/imagemagick-convert-png-to-pdf.md)
+- [Iterate file names with spaces](linux/iterate-filenames-with-spaces.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Kept back packages in Ubuntu](linux/ubuntu-kept-back-packages.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
