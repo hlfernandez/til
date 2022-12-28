@@ -63,6 +63,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Reduce the size of a PDF file](linux/reduce-pdf-size.md)
 - [Resize a gif image](linux/resize-gif-image.md)
 - [Restore Kate menu](linux/restore-kate-menu.md)
+- [`rsync` permission denied](linux/rsync-permission-denied.md)
 - [Scripting: Read from file or standard input](linux/scripting-read-file-or-stdin.md)
 - [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
 
