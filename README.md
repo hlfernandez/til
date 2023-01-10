@@ -54,6 +54,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Iterate file names with spaces](linux/iterate-filenames-with-spaces.md)
 - [How to chroot from a LiveCD](linux/how-to-chroot-from-live-cd.md)
 - [Kept back packages in Ubuntu](linux/ubuntu-kept-back-packages.md)
+- [Make SSH private keys permanent](linux/permanent-private-keys.md)
 - [Merge PDF files](linux/merge-pdf-files.md)
 - [Multiline comments in bash](linux/multiline-comments-bash.md)
 - [Paste the clipboard contents into the command line](linux/paste-clipboard-into-command-line.md)
