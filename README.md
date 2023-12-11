@@ -46,6 +46,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Extract PDF pages as images](linux/extract-pdf-pages-as-images.md)
 - [Extract substring with `sed`](linux/extract-substring-with-sed.md)
 - [Find all files containing a string](linux/find-all-files-containing-string.md)
+- [Find Debian/Ubuntu packages containing specific libraries](linux/find-debian-packages-specific-libraries.md)
 - [Find the number of CPUs and cores](linux/find-number-cpus-cores.md)
 - [Fix Alt + F4 switching to TTY](linux/fix-alt-f4-tty-switching.md)
 - [Fix Ubuntu desktop Java launcher](linux/fix-ubuntu-desktop-java-launcher.md)
