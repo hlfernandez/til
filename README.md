@@ -94,6 +94,7 @@ A collection of useful, concise tips on small things I learn day to day.
 ### Python
 
 - [Getting real-time output running external commands with `subprocess`](python/real-time-output-subprocess.md)
+- [Ignore warnings](python/ignore-warnings.md)
 
 ### R
 - [Compare several data frames by column](R/compare-several-data-frames-column.md)
