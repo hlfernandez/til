@@ -37,6 +37,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Bounce keys customization](linux/bounce-keys-customization)
 - [Create an animated gif](linux/create-animated-gif.md)
 - [Create encrypted zip file](linux/create-encrypted-zip-file.md)
+- [Concatenate files placing an empty line between them ](linux/concat-files-with-empty-line-between.md)
 - [Convert Excel into CSV](linux/convert-excel-to-csv.md)
 - [Convert flac to mp3](linux/convert-flac-to-mp3.md)
 - [Convert SVG to PDF with Inkscape](linux/convert-svg-to-pdf-with-inkscape.md)
