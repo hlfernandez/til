@@ -6,6 +6,9 @@ A collection of useful, concise tips on small things I learn day to day.
 
 ---
 
+### Bioinformatics
+- [Mapping gene identifiers in R](bioinformatics/mapping-gene-identifiers-R.md)
+
 ### Docker
 - [Fix DNS problems](docker/fix-dns-problems.md)
 - [Get container ID from within Docker container](docker/get-container-id-from-within-container.md)
