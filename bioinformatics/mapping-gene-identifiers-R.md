@@ -2,7 +2,7 @@
 
 I have recently discovered a way of mapping gene identifiers in R through the [AnnotationDbi](https://bioconductor.org/packages/release/bioc/html/AnnotationDbi.html) bioconductor package. It's an easy way of using predefined mappings and use them inside R scripts.
 
-Also, I created [this gist](https://gist.github.com/hlfernandez/39a61348d12240168ca3e0a469788a84.js) with a simple example that uses `mapIds` to provide a function that allows obtaining multiple mappings and building a dataframe with them. I created it because the `select` function does not allow to use `multiVals` and always returns all mappings (i.e. it may create 1:n mappings).
+Also, I created [this gist](https://gist.github.com/hlfernandez/39a61348d12240168ca3e0a469788a84) with a simple example that uses `mapIds` to provide a function that allows obtaining multiple mappings and building a dataframe with them. I created it because the `select` function does not allow to use `multiVals` and always returns all mappings (i.e. it may create 1:n mappings).
 
 ```R
 library(org.Hs.eg.db)
