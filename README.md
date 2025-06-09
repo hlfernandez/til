@@ -104,6 +104,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Compare several data frames by column](R/compare-several-data-frames-column.md)
 - [Convert data frame columns](R/convert-data-frame-columns.md)
 - [Get the path of the current script](R/get-path-current-script.md)
+- [List installed packages and versions](R/list-installed-packages.md)
 - [Scope assignment operator](R/scope-assignment-operator.md)
 - [Unable to install packages using install.packages](R/unable-install-packages.md)
 
