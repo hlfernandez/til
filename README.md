@@ -65,6 +65,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Merge PDF files](linux/merge-pdf-files.md)
 - [Multiline comments in bash](linux/multiline-comments-bash.md)
 - [Paste the clipboard contents into the command line](linux/paste-clipboard-into-command-line.md)
+- [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
 - [Remove line breaks](linux/remove-line-breaks.md)
 - [Remove the password from a PDF](linux/remove-pdf-password.md)
 - [Replace tabs with spaces](linux/replace-tabs-with-spaces.md)
@@ -73,7 +74,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [Restore Kate menu](linux/restore-kate-menu.md)
 - [`rsync` permission denied](linux/rsync-permission-denied.md)
 - [Scripting: Read from file or standard input](linux/scripting-read-file-or-stdin.md)
-- [Print line ranges with `sed`](linux/print-line-ranges-with-sed.md)
+- [Test HDD read and write speed](linux/test-hdd-read-write.md)
 
 ### Maven
 
