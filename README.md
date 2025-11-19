@@ -75,6 +75,7 @@ A collection of useful, concise tips on small things I learn day to day.
 - [`rsync` permission denied](linux/rsync-permission-denied.md)
 - [Scripting: Read from file or standard input](linux/scripting-read-file-or-stdin.md)
 - [Test HDD read and write speed](linux/test-hdd-read-write.md)
+- [Updating Lenovo ThinkPad BIOS on Linux](linux/update-thinkpad-bios.md)
 
 ### Maven
 
